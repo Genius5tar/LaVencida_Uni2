@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author PEDRO DE HORTA
  */
-public class Ordenamiento_java {
+public class Ordenamiento {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
